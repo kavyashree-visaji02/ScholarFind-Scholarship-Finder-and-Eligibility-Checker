@@ -1,0 +1,5 @@
+services:
+  scholarfind:
+    build: .
+    ports:
+      - "5000:5000"
